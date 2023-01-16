@@ -1,1 +1,3 @@
-print{"hello world")
+
+print{"hello gfgfghjfjghfghj")
+print{"hello gfgfghjfjghfghj")
